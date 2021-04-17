@@ -7,3 +7,9 @@
  3. 3.1. Specifications and implementation of vector/array, record, list.
     3.2. What is ADT? How is it different from structure data type?
 4. Statement Level Sequence Control
+
+
+#### _Case Studies_
+
+1. Case Study on C++ Programming Language
+2. Case Study on Python Programming Language
